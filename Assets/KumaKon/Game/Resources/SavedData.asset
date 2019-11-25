@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10f806fcde5ebd04687a95fc645ed0d3, type: 3}
+  m_Name: SavedData
+  m_EditorClassIdentifier: 
+  defaultFont: {fileID: 12800000, guid: 037234afdb14b4d4f99b1eaab8e3d456, type: 3}
+  bearIcon: {fileID: 2800000, guid: c273c3aa5ed07214aa56d99c9bf4569d, type: 3}
+  ItemStorages: []

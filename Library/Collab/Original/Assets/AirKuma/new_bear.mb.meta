@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: d759b539af1af2f4db548e600c30955f
+ModelImporter:
+  serializedVersion: 28
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: new_bear(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left
+      parentName: new_bear(Clone)
+      position: {x: 1000.1, y: 3.1480904, z: 0.9122339}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear
+      parentName: new_bear(Clone)
+      position: {x: -0, y: 1.3125925, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.34364226, y: 0.34364226, z: 0.34364226}
+    - name: head
+      parentName: bear
+      position: {x: -0.02354014, y: 4.770231, z: 0.20591497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface10
+      parentName: head
+      position: {x: 0.02354014, y: -4.770231, z: -0.20591497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface11
+      parentName: head
+      position: {x: 0.02354014, y: -4.770231, z: -0.20591497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tail
+      parentName: bear
+      position: {x: 0.13478404, y: -1.0789796, z: -2.2108982}
+      rotation: {x: -0.092663676, y: -0.0018605352, z: 0.00033657457, w: 0.99569565}
+      scale: {x: 0.28248662, y: 0.9041324, z: 0.75066346}
+    - name: feet
+      parentName: bear
+      position: {x: -1.9716014, y: -3.1633847, z: 2.5140762}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.2509762, y: 0.8602859, z: 1.8027077}
+    - name: bear2:polySurface4
+      parentName: feet
+      position: {x: 0.5728061, y: -0.31474054, z: 0.13203147}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1660345, y: 1.4754153, z: 1.293223}
+    - name: bear2:polySurface6
+      parentName: bear2:polySurface4
+      position: {x: 0.0078117847, y: 0.16961706, z: 0.04845332}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface13
+      parentName: bear2:polySurface6
+      position: {x: -1.9232899, y: -0.10089737, z: -0.027206004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface16
+      parentName: bear2:polySurface13
+      position: {x: 0.2073213, y: -0.04572588, z: -0.16103189}
+      rotation: {x: 0, y: -0.012900342, z: -0, w: 0.9999168}
+      scale: {x: 1, y: 0.81612897, z: 1}
+    - name: polySurface28
+      parentName: bear2:polySurface16
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface27
+      parentName: bear2:polySurface4
+      position: {x: -1.7081568, y: 0.022993816, z: -0.13978457}
+      rotation: {x: 0, y: -0.012900342, z: -0, w: 0.9999168}
+      scale: {x: 1, y: 0.81612897, z: 1}
+    - name: legs
+      parentName: bear
+      position: {x: -1.9555501, y: -2.281917, z: 1.5102026}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.52720374, y: 0.9282808, z: 0.14309785}
+    - name: bear2:polySurface2
+      parentName: legs
+      position: {x: 1.3591839, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.3529779, y: 1.1914788, z: 1.0017077}
+    - name: bear2:polySurface12
+      parentName: bear2:polySurface2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface15
+      parentName: bear2:polySurface12
+      position: {x: -0.4197571, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface18
+      parentName: bear2:polySurface15
+      position: {x: 0.52441615, y: 0, z: -0.34035167}
+      rotation: {x: 0, y: -0.038679484, z: -0, w: 0.9992517}
+      scale: {x: 1.2465307, y: 1, z: 1.0709543}
+    - name: polySurface25
+      parentName: bear2:polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface26
+      parentName: bear2:polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hands
+      parentName: bear
+      position: {x: -3.1171036, y: 1.2937645, z: -0.09069954}
+      rotation: {x: 0.83944106, y: 0.3299986, z: 0.13178727, w: 0.41118345}
+      scale: {x: 1.3071222, y: 0.55277723, z: 0.37351745}
+    - name: bear2:polySurface1
+      parentName: hands
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface7
+      parentName: bear2:polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface22
+      parentName: bear2:polySurface7
+      position: {x: 0.23278904, y: 0.3281952, z: 0.53691036}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: bear2:polySurface22
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: bear2:polySurface22
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyes
+      parentName: bear
+      position: {x: -1.0174769, y: 4.8157034, z: 1.7144291}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1310314, y: 1.1310314, z: 1.1310314}
+    - name: bear2:polySurface20
+      parentName: eyes
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bear2:polySurface21
+      parentName: eyes
+      position: {x: -0.037817128, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ears
+      parentName: bear
+      position: {x: -2.2135272, y: 6.711644, z: -0.18095163}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6450112, y: 0.6450112, z: 0.23321192}
+    - name: polySurface29
+      parentName: ears
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface30
+      parentName: ears
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: bear
+      position: {x: -0, y: 0.0485892, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.95649296, y: 1.2193784, z: 0.8295114}
+    armTwist: 0.484
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Hips
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

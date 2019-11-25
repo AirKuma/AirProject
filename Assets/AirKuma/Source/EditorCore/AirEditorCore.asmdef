@@ -1,0 +1,17 @@
+{
+    "name": "AirEditorCore",
+    "references": [
+        "GUID:c57c92fc5c382f149ad2647f7277b52c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
